@@ -1,6 +1,7 @@
 public class Account {
     private double balance;
     private int accountNumber;
+    private String test;
     private static int numberOfAccounts = 1000;
 
     public Account(double initialDeposit) {
